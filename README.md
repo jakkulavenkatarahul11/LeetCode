@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
