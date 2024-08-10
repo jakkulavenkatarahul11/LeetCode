@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0283-move-zeroes) |
+| [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,21 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Hash Table
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
