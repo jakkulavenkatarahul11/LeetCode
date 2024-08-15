@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0283-move-zeroes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Dynamic Programming
 |  |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0040-combination-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
