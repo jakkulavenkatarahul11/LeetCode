@@ -14,11 +14,13 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Two Pointers
 |  |
 | ------- |
