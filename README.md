@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Two Pointers
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0007-reverse-integer) |
+| [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -62,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Depth-First Search
 |  |
@@ -90,6 +93,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
