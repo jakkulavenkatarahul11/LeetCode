@@ -47,6 +47,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0007-reverse-integer) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
@@ -130,5 +131,10 @@
 ## String
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0664-strange-printer) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
