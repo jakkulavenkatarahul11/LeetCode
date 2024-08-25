@@ -73,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Depth-First Search
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0664-strange-printer) |
