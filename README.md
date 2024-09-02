@@ -16,6 +16,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
