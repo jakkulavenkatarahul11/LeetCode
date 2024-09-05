@@ -20,6 +20,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0650-2-keys-keyboard](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0906-walking-robot-simulation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2155-find-missing-observations) |
 ## Stack
 |  |
 | ------- |
