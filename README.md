@@ -99,10 +99,12 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -190,6 +194,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
 |  |
