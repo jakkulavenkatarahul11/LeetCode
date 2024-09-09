@@ -55,6 +55,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0029-divide-two-integers) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -88,6 +89,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -164,6 +166,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
