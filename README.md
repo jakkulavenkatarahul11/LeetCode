@@ -18,6 +18,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -53,6 +54,7 @@
 | [0029-divide-two-integers](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
