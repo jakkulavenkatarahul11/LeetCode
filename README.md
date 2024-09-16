@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0283-move-zeroes) |
+| [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0890-lemonade-change) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0075-sort-colors) |
+| [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Bit Manipulation
 |  |
@@ -67,6 +69,7 @@
 | [0013-roman-to-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0029-divide-two-integers) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -183,6 +186,7 @@
 | [0014-longest-common-prefix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0664-strange-printer) |
