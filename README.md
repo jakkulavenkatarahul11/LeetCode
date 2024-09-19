@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0664-strange-printer) |
@@ -70,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0029-divide-two-integers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -82,10 +84,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -191,6 +195,7 @@
 | [0058-length-of-last-word](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
