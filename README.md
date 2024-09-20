@@ -195,6 +195,7 @@
 | [0058-length-of-last-word](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -247,4 +248,16 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
