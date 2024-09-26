@@ -15,6 +15,7 @@
 | [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
@@ -152,6 +154,7 @@
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -276,4 +279,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
