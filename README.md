@@ -56,6 +56,7 @@
 | [0027-remove-element](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -124,6 +125,7 @@
 | [0205-isomorphic-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -225,6 +227,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -316,4 +319,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
