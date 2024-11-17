@@ -20,6 +20,7 @@
 | [0731-my-calendar-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -150,6 +151,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -244,6 +246,7 @@
 | [0264-ugly-number-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -422,6 +426,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -431,6 +436,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
@@ -444,4 +450,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
