@@ -63,6 +63,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -229,6 +230,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
