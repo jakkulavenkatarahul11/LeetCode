@@ -221,6 +221,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -390,6 +391,7 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2201-valid-arrangement-of-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
@@ -486,4 +488,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
