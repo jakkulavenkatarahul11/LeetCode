@@ -97,6 +97,7 @@
 | [1972-rotating-the-box](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -366,6 +367,7 @@
 | [1923-sentence-similarity-iii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
