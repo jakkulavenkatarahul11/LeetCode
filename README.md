@@ -181,6 +181,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
@@ -383,6 +385,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3451-string-compression-iii) |
 ## Simulation
@@ -449,6 +452,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -494,6 +498,7 @@
 | [1755-defuse-the-bomb](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
