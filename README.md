@@ -67,6 +67,7 @@
 | [2716-prime-subtraction-operation](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -300,6 +301,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -488,11 +490,13 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -506,6 +510,7 @@
 | [1755-defuse-the-bomb](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
@@ -524,6 +529,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
 |  |
 | ------- |
