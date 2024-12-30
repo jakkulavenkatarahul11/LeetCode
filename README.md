@@ -97,6 +97,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2562-count-ways-to-build-good-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
