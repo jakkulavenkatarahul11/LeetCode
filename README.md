@@ -68,6 +68,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -391,6 +392,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Game Theory
 |  |
 | ------- |
@@ -430,6 +432,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
