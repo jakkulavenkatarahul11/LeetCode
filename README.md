@@ -47,6 +47,7 @@
 | [1755-defuse-the-bomb](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -229,6 +230,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1876-map-of-highest-peak](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -302,6 +304,7 @@
 | [0787-sliding-puzzle](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
