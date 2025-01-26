@@ -299,6 +299,7 @@
 | [1396-count-servers-that-communicate](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -536,6 +537,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2201-valid-arrangement-of-pairs](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -663,4 +665,5 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
