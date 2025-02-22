@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -218,6 +219,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0729-my-calendar-i) |
@@ -716,4 +718,8 @@
 | [0820-find-eventual-safe-states](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
