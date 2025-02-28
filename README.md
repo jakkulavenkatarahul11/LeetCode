@@ -125,6 +125,7 @@
 | [1013-fibonacci-number](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -519,6 +520,7 @@
 | [0952-word-subsets](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1170-shortest-common-supersequence](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/jakkulavenkatarahul11/LeetCode/tree/master/1304-longest-happy-string) |
